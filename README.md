@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Soy estudiante de desarrollo web que busca oportunidades para crecer y aprender. 
+Soy desarrollador web que busca oportunidades para crecer y aprender. 
 Me apasiona la creación de soluciones digitales.
 Estoy abierto a oportunidades laborales, ya sea de forma presencial o remota.
 
