@@ -18,7 +18,7 @@ Estoy abierto a oportunidades laborales, ya sea de forma presencial o remota.
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/jestjs/jest)
-- [![Gitter](https://img.shields.io/gitter/room/sass/sass?label=chat&logo=gitter&style=social)](https://gitter.im/sass/sass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- [![@SassCSS on Twitter](https://img.shields.io/twitter/follow/SassCSS?label=%40SassCSS&style=social)](https://twitter.com/SassCSS)
 
 ### Back-End
 
