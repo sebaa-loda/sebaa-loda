@@ -1,6 +1,6 @@
 # ¡Hola, soy Sebastian Loda! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web, tanto en el ámbito front-end como back-end. Vivo en Argentina y actualmente estoy enfocado en mejorar mis habilidades y conocimientos para insertarme en el mundo laboral.
+¡Bienvenido a mi perfil de GitHub! Me considero un apasionado del desarrollo web, tanto en el ámbito front-end como back-end. Vivo en Argentina y actualmente estoy enfocado en mejorar mis habilidades y conocimientos para insertarme en el mundo laboral.
 
 ## Sobre mí
 
