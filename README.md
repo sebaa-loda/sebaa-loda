@@ -38,4 +38,4 @@ Estoy abierto a oportunidades laborales, ya sea de forma presencial o remota.
 ¡No dudes en contactarme! Puedes encontrarme en :
 - [LinkedIn](https://www.linkedin.com/in/sebastian-loda-8a94b3275)
 - correo : sebaamdq96@gmail.com / sebasmdq96@hotmail.com
-- Portfolio : [(https://portfolio-pink-six-85.vercel.app/)](https://portfolio-pink-six-85.vercel.app/)
+- Portfolio : [https://portfolio-pink-six-85.vercel.app/](https://portfolio-pink-six-85.vercel.app/)
